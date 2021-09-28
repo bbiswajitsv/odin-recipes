@@ -1,0 +1,21 @@
+body {
+    background-color: darkcyan;
+}
+
+div {
+    background-color: burlywood;
+    color: crimson;
+    margin-left: 500px
+    ;
+    margin-right: 500px;
+    margin-top: 25%;
+    border-style:dotted;
+    border-width:2px;
+    padding-block: 20px;
+}
+
+
+a{
+    background-color: darkkhaki;
+    color: darkmagenta;
+}
